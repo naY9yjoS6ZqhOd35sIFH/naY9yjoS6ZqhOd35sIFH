@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naY9yjoS6ZqhOd35sIFH
 - 👀 I’m interested in keepass
-- 🌱 I’m currently learning k8s
+- 🌱 I’m currently learning [linux](https://github.com/torvalds/linux)
 ```sh
 solusbw(){
 local soluskey=$1
